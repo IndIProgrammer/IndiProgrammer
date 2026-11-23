@@ -10,7 +10,7 @@
 ### 🛠️ Мой стек
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,github,linux,bash,C++," alt="Мой стек" />
+  <img src="https://skillicons.dev/icons?i=python,github,linux,bash,cpp," alt="Мой стек" />
 </p>
 
 ---

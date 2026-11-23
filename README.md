@@ -28,12 +28,12 @@
 ### 📊 Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ТВОЙ_НИК]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ТВОЙ_НИК]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IndiProgrammer&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndiProgrammer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[ТВОЙ_НИК]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IndiProgrammer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ### 🏆 Трофеи
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[ТВОЙ_НИК]&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IndiProgrammer&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophy" />
 </p>
 
 ---

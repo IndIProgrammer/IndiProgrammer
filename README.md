@@ -1,10 +1,6 @@
 <h1 align="center">Привет 👋, я Истушкин Кирилл Александрович</h1>
 <h3 align="center">Студент 2-го курса ПГНИУ</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Пишу+код+каждый+день;Люблю+чистый+код;Открыт+к+сотрудничеству"/>
-</p>
-
 ---
 
 ### 🛠️ Мой стек

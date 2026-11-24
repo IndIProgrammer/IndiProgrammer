@@ -1,6 +1,7 @@
 <h1 align="center">Привет 👋, я Истушкин Кирилл Александрович</h1>
 <h3 align="center">Студент ИКНТ 2-го курса ПГНИУ. Роль - DevOps</h3>
 <h3 align="center">Ищу стажировку в DevOps</h3>
+
 ---
 
 <h3 align="center">🛠️ Мой стек</h3>
